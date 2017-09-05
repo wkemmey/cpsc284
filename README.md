@@ -10,7 +10,7 @@ Tuesdays and Thursdays, 7:00 pm - 8:50 pm
 
 UMW Trinkle Hall, Room B6
 
-### Final Exam 7:00 - 9:30 pm ???
+### Final Exam 7:00 - 9:30 pm Thursday, 14 December 2017
 
 ## Instructor
 
