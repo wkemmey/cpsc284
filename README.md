@@ -4,13 +4,13 @@
 
 ## CPSC 284 -- Applied Discrete Mathematics
 
-Fall Semester 2017
+Spring Semester 2018
 
 Tuesdays and Thursdays, 7:00 pm - 8:50 pm
 
 UMW Trinkle Hall, Room B6
 
-### Final Exam 7:00 - 9:30 pm Thursday, 14 December 2017
+### Final Exam 7:00 - 9:30 pm ???, ???
 
 ## Instructor
 
@@ -96,7 +96,7 @@ I don't collect or grade homework.  It's for you.
 
 There will be several opportunities for small projects and responsive readings outside of class.  Points for these assignments will be added to your grade for the semester.
 
-Responsive readings will require short answers to discussion questions, and will be worth 3-4 points each.  100% of points earned will be added to your grade.  Responsive readings are individual assignments.
+Responsive readings will require short answers to discussion questions, and will be worth up to 5 points each.  100% of points earned will be added to your grade.  Responsive readings are individual assignments, but feel free to discuss the articles together before writing your response.
 
 Projects may be completed individualy or in groups.
 
